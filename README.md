@@ -9,7 +9,7 @@ Experienced Full stack developer developer with a proven track record of deliver
 * ✉️  You can contact me at [amrmohamed09@gmail.com](mailto:amrmohamed09@gmail.com)
 * 🚀  I'm currently working on freelancing projects
 * 🎨  My last project was [BuyBay(Ecommerce)](https://buybay-nine.vercel.app/)
-* 🤝  I'm open to collaborate on open source / interesting projects.
+* 🤝  I'm open to collaborating on open-source/interesting projects.
 
 ### Skills
 
